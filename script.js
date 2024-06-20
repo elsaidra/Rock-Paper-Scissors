@@ -56,10 +56,10 @@ if (humanChoice == computerChoice)
         }
       
         
-whichIsWhich.textContent = "the computer choose: ", computerChoice;
-whichIsWhich.textContent = "you choose", humanChoice;
-whichIsWhich.textContent = "human score = " ,humanScore;
-whichIsWhich.textContent = "computer score = ", computerScore;
+// whichIsWhich.textContent = "the computer choose: ", computerChoice;
+// whichIsWhich.textContent = "you choose", humanChoice;
+// whichIsWhich.textContent = "human score = " ,humanScore;
+// whichIsWhich.textContent = "computer score = ", computerScore;
 
 }
 
