@@ -1,0 +1,41 @@
+* {
+    background: wheat;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+}
+
+button {
+    margin: 5px;
+    border-radius: 15%;
+    width: 70px;
+    background-color:#101314;
+    height: 50px;
+    color:#969ca0;
+}
+
+section {
+    align-items: center;
+    display: flex;
+
+}
+
+.flex {
+    display: flex;
+}
+
+.result {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-left: 20px;
+
+}
